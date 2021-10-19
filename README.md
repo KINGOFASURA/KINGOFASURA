@@ -21,7 +21,6 @@
 <a href="https://heroku.com" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
 
 <a href="https://www.w3.org/html/" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-)](https://KINGOFASURA)
 
 
 <a href="https://www.photoshop.com/en" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 

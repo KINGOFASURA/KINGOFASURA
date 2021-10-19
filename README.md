@@ -2,7 +2,7 @@
 
 - 😁ᴘʏᴛʜᴏɴ ʟᴏᴠᴇʀ
 
-- 😏ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
+- 😏 🄲🄷🅄🅃🄸🅈🄰 🄷🅄 🅃🄷🄾🄳🄰
 
 ## ❣️ ᴜ ᴄᴀɴ ꜰɪɴᴅ ᴍᴇ [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Baapu_hu_mai) 
 

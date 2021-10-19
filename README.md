@@ -40,8 +40,7 @@
 <p align="center"><a href="https://github.com/KINGOFASURA"><img src="https://github-readme-stats.vercel.app/api?username=KINGOFASURA&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/KINGOFASURA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KINGOFASURA&theme=radical&layout=compact"></a></p> 
 
-<a href="https://www.java.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
-Github Trophies](https://github-profile-trophy.vercel.app/?username=KINGOFASURA&theme=darkhub&margin-w=10&margin-h=10&row=2&column=3&count_private=true
+<
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KINGOFASURA&theme=black-ice)](https://git.io/streak-stats)
 <a href="https://www.linux.org/" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 

@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @KINGOFASURA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+  <img src="https://media.giphy.com/media/FqBTvSNjNzeZG/giphy.gif">
+</p>
 
-<!---
-KINGOFASURA/KINGOFASURA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- https://github-readme-stats.vercel.app/api?KINGOFASURA&theme=redical) 
+
+![Profile views](https://komarev.com/ghpvc/?username=KINGOFASURA&color=blue&style=flat-square&label=Profile+Views)
+<p align="center"><a href="https://github.com/KINGOFASURA"><img src="https://github-readme-stats.vercel.app/api?username=KINGOFASURA&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/KINGOFASURA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KINGOFASURA&theme=radical&layout=compact"></a></p> 

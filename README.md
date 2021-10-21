@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [SOON](https://github.com/KINGOFASURA/RAVAN-OFFICIAL)
 
-- 📫 How to reach me **Oop67518@gmail.com**
+- 📫 How to reach me **Oop675187@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
